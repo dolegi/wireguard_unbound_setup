@@ -11,8 +11,8 @@ Redirects ad and malware from this list `https://raw.githubusercontent.com/Steve
 
 # References
 
-https://www.wireguard.com
-https://www.nlnetlabs.nl/projects/unbound/about/
-https://calomel.org/unbound_dns.html
-https://deadc0de.re/articles/unbound-blocking-ads.html
-https://github.com/StevenBlack/hosts
+- https://www.wireguard.com
+- https://www.nlnetlabs.nl/projects/unbound/about/
+- https://calomel.org/unbound_dns.html
+- https://deadc0de.re/articles/unbound-blocking-ads.html
+- https://github.com/StevenBlack/hosts
